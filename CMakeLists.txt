@@ -3,4 +3,4 @@ project(guia1_ej22 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(guia1_ej22 main.c)
+add_executable(guia1_ej22 main.c LEnlazada.c LEnlazada.h)
